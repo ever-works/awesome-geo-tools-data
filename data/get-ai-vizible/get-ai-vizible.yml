@@ -1,0 +1,12 @@
+name: "Get AI Vizible"
+description: "AI visibility tracker that measures how often ChatGPT, Claude, Gemini, Perplexity, Grok, DeepSeek and Google AI Mode mention and cite a brand vs its competitors. Daily scans and a read-only MCP server on every plan. Paid subscription."
+source_url: "https://getvizible.online/"
+category: "AI Visibility Tracking"
+tags:
+  - "paid"
+  - "ai-visibility-tracking"
+  - "mcp"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/getvizible.online.ico"
+markdown: "## Pricing\n\nPaid. Plans from $99/month; 7-day trial for $10.\n\n## Links\n\n- Website: <https://getvizible.online/>\n"
+updated_at: "2026-11-24 10:45"
